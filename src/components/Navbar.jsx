@@ -27,7 +27,7 @@ const Navbar = () => {
               animate={{ opacity: 1 }}
               className="text-2xl font-serif font-bold text-primary"
             >
-              SEAHOMES
+              SKYHOMES
             </motion.h1>
           </div>
 
