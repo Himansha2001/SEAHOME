@@ -4,6 +4,7 @@ import Projects from './components/Projects'
 import About from './components/About'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
+import WhyChooseUs from './components/WhyChooseUs'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Navbar />
       <main>
         <Hero />
+        <WhyChooseUs />
         <Projects />
         <About />
         <Contact />

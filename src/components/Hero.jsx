@@ -19,7 +19,7 @@ const Hero = () => {
           transition={{ duration: 1 }}
           className="text-5xl md:text-6xl font-serif font-bold text-white mb-6 drop-shadow-lg"
         >
-          Discover Luxury Coastal Living
+          Elevate Your Lifestyle, Invest in the Sky
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
@@ -27,7 +27,7 @@ const Hero = () => {
           transition={{ duration: 1, delay: 0.3 }}
           className="text-xl md:text-2xl text-white mb-8 drop-shadow-md"
         >
-          SEAHOMES brings you the finest selection of oceanfront properties for a life of elegance and tranquility.
+          SKYHOMES brings you the finest selection of luxury properties for a life of elegance and tranquility.
         </motion.p>
         <motion.div
           initial={{ opacity: 0, y: 20 }}
